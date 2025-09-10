@@ -1,0 +1,82 @@
+/.venv
+/2019.csv
+/Ad22.drawio
+/auto.csv
+/auto1.csv
+/auto2.csv
+/auto3.csv
+/bag_of_words.csv
+/cases_deaths.csv
+/cleaned_ukr_text.csv
+/clean_data2.csv
+/countries-languages.csv
+/country_annotation.csv
+/create_schema_mal_world_data.sql
+/DA-2-1.ipynb
+/DA-2-Data-Wrangling.ipynb
+/DA-3-1.ipynb
+/DA-3-Exploratory-Data-Analysis.ipynb
+/DA-4-1.ipynb
+/DA-4-Model-Development.ipynb
+/DA-5-1.ipynb
+/DA-5-Model-Evaluation-and-Refinement.ipynb
+/DA-6-1.ipynb
+/DA-6-Model-clastering.ipynb
+/Data2.csv
+/Data5.csv
+/dim_country.csv
+/dim_development_group.csv
+/dim_language.csv
+/dim_region.csv
+/dim_time.csv
+/fact_development.csv
+/fact_economy.csv
+/fact_education.csv
+/fact_health.csv
+/fact_inequality.csv
+/For laba 2.docx
+/For laba 3, 4, 5.docx
+/for zahust.docx
+/for_ad.py
+/for_ad_install.py
+/for_teorver.ipynb
+/Global_Education.csv
+/hdi_selected_columns.csv
+/Human Development Index - Full.csv
+/ifb_example.asm
+/ifdef_example.asm
+/ifdifi_example.asm
+/ifdif_example.asm
+/ife_example.asm
+/ifidni_example.asm
+/ifidn_example.asm
+/ifndef_example.asm
+/if_example.asm
+/kaggle.json
+/kursova.ipynb
+/kursova_unnesesary.ipynb
+/lab1.py
+/lab2.asm
+/lab3.asm
+/lab3_test.asm
+/lab4.asm
+/lab6_py.ipynb
+/lab7.ipynb
+/money.csv
+/nltk_data
+/seattleWeather_1948-2017.csv
+/stanza_lemmatized_ukr_text.csv
+/stopwords_ua.txt
+/tables.txt
+/tokenized_ukr_text.csv
+/tone-dict-uk.tsv
+/ukrainka-lesia-lisova-pisnia.txt
+/ukr_text.csv
+/za-dvoma-zaytsiamy1341.txt
+/ІП-35 Пята Богдан АД 1.docx
+/ІП-35 Пята Богдан АД 1.pdf
+/ІП-35 Пята Богдан АД 2.docx
+/ІП-35 Пята Богдан АД 3.docx
+/ІП-35 Пята Богдан Курсова робота.docx
+/ІП-35 Пята Богдан Курсова робота.pdf
+/Документ Microsoft Word.docx
